@@ -42,10 +42,10 @@ h1:hover {
 }
 
 object{
+     font-size: xx-large;
+    background-color: cadetblue;
+    color: yellow;
 
-    font-size: xx-large;
-    background-color: rgb(43, 147, 226);
-        color: rgb(209, 246, 0);
 }
 
 h2 {
