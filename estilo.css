@@ -5,12 +5,13 @@ body{
 .parrafo{
     color: brown;
     background-color: rgb(240, 202, 166);
-      font-size: 1em;
+      font-size: 2em;
 }
 
 #parrafounico{
- font-size: 1em;
-    color: blue;
+ font-size: 2em;
+    color: rgb(5, 0, 4);
+    background-color: rgb(250, 10, 194);
 }
 
 body{
