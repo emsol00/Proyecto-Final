@@ -13,12 +13,6 @@ body{
     color: blue;
 }
 
-#contenedor1 {
-width: 50vw;
-height: 80vh;
-border: 1px 
-
-}
 body{
 background-color: aquamarine;
 background-image: url(https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExandzMHd6dHVsZ2VsbTM3aTgyeXNiYzV5NG1qdW9nbDJ6MXBtbmlidSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lbksIVYnMkzio/giphy.gif);
@@ -53,8 +47,9 @@ h2 {
     margin-inline-end: 0px;
     font-weight: initial;
     unicode-bidi: isolate;
-    color: rgba(51, 241, 149, 0.88);
+    color: rgba(10, 95, 53, 0.88);
 background-color: rgb(194, 81, 117); 
+background-image: url(https://floresco.co/modules/smartblog/images/22-single-default.jpg)
 }
 
 p {
