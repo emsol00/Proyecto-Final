@@ -64,3 +64,20 @@ p {
     color: rgba(51, 80, 241, 0.88);
 background-color: rgb(255, 244, 201); 
 }
+
+ #sol {
+  font-size: 10em;
+  background-image: url(https://hachette.imgix.net/books/9781408329832.jpg?auto=compress&w=440);
+ }
+
+ #luna {
+  font-size: 8em;
+  background-image: url(https://i.pinimg.com/736x/2b/c9/ac/2bc9aca36f11d0ec22d51686f6d0a2c3.jpg)
+
+}
+
+#luna {
+
+  color: aqua;
+}
+
