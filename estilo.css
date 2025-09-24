@@ -28,7 +28,7 @@ h1{
 h1:hover {
 
   font-weight: 700;
-  color:rgb(181, 255, 9);
+  color:rgb(9, 243, 255);
   cursor: pointer;
 }
 
@@ -47,7 +47,7 @@ h2 {
     margin-inline-end: 0px;
     font-weight: initial;
     unicode-bidi: isolate;
-    color: rgba(10, 95, 53, 0.88);
+    color: rgba(222, 252, 237, 0.88);
 background-color: rgb(194, 81, 117); 
 background-image: url(https://floresco.co/modules/smartblog/images/22-single-default.jpg)
 }
@@ -61,5 +61,5 @@ p {
     unicode-bidi: isolate;
     font-size: 3em;
     color: rgba(51, 80, 241, 0.88);
-background-color: rgb(255, 255, 255); 
+background-color: rgb(255, 244, 201); 
 }
